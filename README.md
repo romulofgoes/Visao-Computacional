@@ -1,0 +1,1 @@
+Exercícios de Visão Computacional, disciplina da pós-graduação da Universidade Federal Fluminense(UFF), ministrada pelo Prof. Dr. Leandro A.F. Fernandes.
