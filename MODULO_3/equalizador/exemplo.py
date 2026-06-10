@@ -1,4 +1,4 @@
-from equal_de_hist import equalizer
+from MODULO_3.equalizador.equal_de_hist import equalizer
 import cv2
 
 

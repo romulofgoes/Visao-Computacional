@@ -1,6 +1,6 @@
 import cv2
 import numpy as np
-from mask import mask
+from MODULO_3.filtro_FDT.mask import mask
 
 img_src = cv2.imread("imagens/Questionario-3-Imagem-4.png") #importa a imagem
 img_src = img_src[:, :, 0] # como já está em grayscale, só tranforma em 1 só canal
